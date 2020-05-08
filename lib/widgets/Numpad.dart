@@ -49,7 +49,7 @@ class _NumpadState extends State<Numpad> {
               ),
               NumpadButton(
                 text: '3',
-                onPressed: ()=>setValue('2'),
+                onPressed: ()=>setValue('3'),
               ),
             ],
           ),
